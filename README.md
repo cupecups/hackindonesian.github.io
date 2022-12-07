@@ -1,8 +1,5 @@
 # hackindonesian.github.io
 
-## Contact US
-#### <a href="https://forms.gle/vReWMzTdoMTJwAg67" target="_blank">help me</a>
-
 #### <a href="https://github.com/cupecups/binAMD-FX" target="_blank">AMD FX 8150</a>
 #### <a href="https://github.com/cupecups/z490-msi-gaming-plus" target="_blank">z490-msi-gaming-plus</a>
 #### <a href="https://github.com/cupecups/panasonic-cf-nx4" target="_blank">panasonic-cf-nx4</a>
@@ -20,3 +17,7 @@
 #### <a href="https://github.com/cupecups/Z390-Designare-OC" target="_blank">Z390-Designare-OC</a>
 #### <a href="https://github.com/cupecups/b450TUF" target="_blank">b450TUF</a>
 #### <a href="https://github.com/cupecups/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh" target="_blank">ASUS-TUF-Z390M-Pro-Gaming-Hackintosh</a>
+
+
+## Contact US
+#### <a href="https://forms.gle/vReWMzTdoMTJwAg67" target="_blank">help me</a>
