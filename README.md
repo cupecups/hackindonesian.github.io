@@ -7,6 +7,7 @@
 #### <a href="https://github.com/cupecups/Lenovo-X260" target="_blank">Lenovo-X260</a>
 #### <a href="https://github.com/cupecups/Asus-ROG-Strix-Z270F" target="_blank">Asus-ROG-Strix-Z270F</a>
 #### <a href="https://github.com/cupecups/ASUS-UX461UN" target="_blank">ASUS-UX461UN</a>
+#### <a href="https://github.com/cupecups/ASUS-FX506LHB" target="_blank">ASUS-FX506LHB</a>
 #### <a href="https://github.com/cupecups/z390-aorus-ultra" target="_blank">z390-aorus-ultra</a>
 #### <a href="https://github.com/cupecups/msi-modern-14-b10mw" target="_blank">msi-modern-14-b10mw</a>
 #### <a href="https://github.com/cupecups/Asrock-a320m-hdv" target="_blank">Asrock-a320m-hdv</a>
